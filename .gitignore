@@ -1,0 +1,13 @@
+/.idea/
+*.iml
+
+.vscode/
+
+.DS_Store
+target/
+
+**/.env
+
+vendor/**
+
+map/**

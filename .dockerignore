@@ -1,0 +1,5 @@
+README.md
+.git
+.gitignore
+*.osm.pbf
+*.geojson
